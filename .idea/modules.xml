@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/openCV.iml" filepath="$PROJECT_DIR$/.idea/openCV.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/opencv_TD.iml" filepath="$PROJECT_DIR$/.idea/opencv_TD.iml" />
+>>>>>>> a0ceb849bd9372b70b6c89ba7e98a1fdc177adba
     </modules>
   </component>
 </project>
