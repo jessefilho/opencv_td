@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb97f2b4-ea8c-4626-9b7d-6c7feb15d277" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/opencv_td" beforeDir="false" afterPath="$PROJECT_DIR$/opencv_td" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/opencv_td/videoprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv_td/videoprocessing.py" afterDir="false" />
     </list>
@@ -110,12 +109,12 @@
       <workItem from="1549364384505" duration="599000" />
       <workItem from="1549378200602" duration="32000" />
       <workItem from="1549379672777" duration="4380000" />
-      <workItem from="1549385614207" duration="10981000" />
+      <workItem from="1549385614207" duration="11515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19724000" />
+    <option name="totallyTimeSpent" value="20258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
