@@ -2,9 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/opencv_td" vcs="Git" />
-=======
->>>>>>> a0ceb849bd9372b70b6c89ba7e98a1fdc177adba
   </component>
 </project>
